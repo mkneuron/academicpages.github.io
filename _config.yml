@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Cool stuff that happened"
   avatar           : "profile.png"
-  bio              : "Doing a masters in AI after doing one in Neuroscience"
+  bio              : "Doing a masters in AI back-to-back with Neuroscience"
   location         : "Nijmegen"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mkneuron"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
