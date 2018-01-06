@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "This is Sidebar"
-  avatar           : "moutsouna.png"
+  avatar           : #"moutsouna.png"
   bio              : "Stuff I did"
   location         : "Nijmegen"
   employer         :
